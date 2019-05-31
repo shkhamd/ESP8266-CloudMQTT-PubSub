@@ -2,11 +2,11 @@
 #include <PubSubClient.h>
  
 const char* ssid          = "0xd52211";
-const char* password      = "c0d3men#";
+const char* password      = "********";
 const char* mqttServer    = "m14.cloudmqtt.com";
 const int   mqttPort      = 19032;
-const char* mqttUser      = "xvatcjpq";
-const char* mqttPassword  = "_VhOM2tvhFnc";
+const char* mqttUser      = "888888888";
+const char* mqttPassword  = "888888888";
 const char* mqttClientID  = "ESP8266-ClientID-shaikh";
 const char* mqttOutTopic  = "ESP/Pub/PubHello";
 const char* mqttInTopic   = "ESP/Sub/SubHello";
